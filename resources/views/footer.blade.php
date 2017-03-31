@@ -1,0 +1,1 @@
+<small>All rights reserved.</small>
